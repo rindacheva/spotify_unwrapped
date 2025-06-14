@@ -1,0 +1,7 @@
+spotipy==2.25.1
+pandas==2.3.0
+matplotlib==3.10.3
+bs4==0.0.2
+selenium==4.33.0
+webdriver-manager==4.0.2
+botasaurus
