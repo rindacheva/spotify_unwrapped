@@ -38,9 +38,3 @@ def scrape_tunebat(driver, data):
             result[label.strip().lower()] = value.strip()
 
     return result
-
-
-
-print(scrape_tunebat({
-    "url": "https://tunebat.com/Info/Abracadabra-Lady-Gaga/2LHNTC9QZxsL3nWpt8iaSR"
-}))
